@@ -1,4 +1,5 @@
-﻿  hello.cpp
-  main.cpp
+﻿  Board.cpp
+  ChessPiece.cpp
+  index.cpp
   Generating Code...
   ChineseChess.vcxproj -> D:\CAMDUNG\OOP\ChineseChess\x64\Debug\ChineseChess.exe

@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CAMDUNG\\OOP\\ChineseChess\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|solutionrelative:ChineseChess\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|solutionrelative:ChineseChess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|solutionrelative:ChineseChess\\ChessPiece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|solutionrelative:ChineseChess\\ChessPiece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\index.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ABBE3A6-767A-4FD0-80E2-7A381C5037CB}|ChineseChess\\ChineseChess.vcxproj|solutionrelative:ChineseChess\\index.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.cpp",
+              "DocumentMoniker": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\index.cpp",
+              "RelativeDocumentMoniker": "ChineseChess\\index.cpp",
+              "ToolTip": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\index.cpp",
+              "RelativeToolTip": "ChineseChess\\index.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T06:35:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.cpp",
+              "RelativeDocumentMoniker": "ChineseChess\\Board.cpp",
+              "ToolTip": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.cpp",
+              "RelativeToolTip": "ChineseChess\\Board.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T06:33:54.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.h",
+              "DocumentMoniker": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.h",
+              "RelativeDocumentMoniker": "ChineseChess\\Board.h",
+              "ToolTip": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\Board.h",
+              "RelativeToolTip": "ChineseChess\\Board.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T06:33:24.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessPiece.cpp",
+              "DocumentMoniker": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.cpp",
+              "RelativeDocumentMoniker": "ChineseChess\\ChessPiece.cpp",
+              "ToolTip": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.cpp",
+              "RelativeToolTip": "ChineseChess\\ChessPiece.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T06:33:03.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessPiece.h",
+              "DocumentMoniker": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.h",
+              "RelativeDocumentMoniker": "ChineseChess\\ChessPiece.h",
+              "ToolTip": "D:\\CAMDUNG\\OOP\\ChineseChess\\ChineseChess\\ChessPiece.h",
+              "RelativeToolTip": "ChineseChess\\ChessPiece.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T06:32:23.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
